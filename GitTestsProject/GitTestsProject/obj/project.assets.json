@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mr.Sky\\.nuget\\packages\\": {}
+    "C:\\Users\\Ученик\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mr.Sky\\source\\repos\\gitTest2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+      "projectUniqueName": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
       "projectName": "GitTestsProject",
-      "projectPath": "C:\\Users\\Mr.Sky\\source\\repos\\gitTest2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
-      "packagesPath": "C:\\Users\\Mr.Sky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mr.Sky\\source\\repos\\gitTest2\\GitTestsProject\\GitTestsProject\\obj\\",
+      "projectPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+      "packagesPath": "C:\\Users\\Ученик\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mr.Sky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ученик\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +57,20 @@
         "warn": true,
         "downloadDependencies": [
           {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.12, 5.0.12]"
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -66,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

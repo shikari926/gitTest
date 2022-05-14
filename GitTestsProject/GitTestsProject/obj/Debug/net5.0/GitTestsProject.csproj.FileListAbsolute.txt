@@ -1,0 +1,16 @@
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.exe
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.deps.json
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.runtimeconfig.json
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.runtimeconfig.dev.json
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.dll
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\ref\GitTestsProject.dll
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\bin\Debug\net5.0\GitTestsProject.pdb
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.AssemblyInfoInputs.cache
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.AssemblyInfo.cs
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.dll
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\ref\GitTestsProject.dll
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.pdb
+C:\Users\Ученик\source\repos\gitTest_2\GitTestsProject\GitTestsProject\obj\Debug\net5.0\GitTestsProject.genruntimeconfig.cache
