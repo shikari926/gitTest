@@ -9,6 +9,8 @@ namespace GitTestsProject
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("FOR GIT!!!");
+
+            Console.WriteLine("asdadsgdghdfg");
         }
     }
 }
