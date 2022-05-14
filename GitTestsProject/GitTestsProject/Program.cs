@@ -9,9 +9,10 @@ namespace GitTestsProject
             Console.WriteLine("Hello World!");
             int a = 3;
             int b = 4;
+            add(a, b);
         }
 
-        public void add(int a, int b)
+        public static void add(int a, int b)
         {
             if (a > b)
             {
@@ -21,6 +22,7 @@ namespace GitTestsProject
             {
                 Console.WriteLine(a+"<"+b);
             }
+            
         }
         //Максим добавить метод возведения числа в степень б
 
