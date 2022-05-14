@@ -9,6 +9,10 @@ namespace GitTestsProject
             Console.WriteLine("Hello World!");
             int a = 3;
             int b = 4;
+
+            Console.WriteLine("FOR GIT!!!");
+
+            Console.WriteLine("asdadsgdghdfg");
         }
 
         //Максим добавить метод возведения числа в степень б
