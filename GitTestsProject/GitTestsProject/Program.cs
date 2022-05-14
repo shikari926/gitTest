@@ -11,6 +11,17 @@ namespace GitTestsProject
             int b = 4;
         }
 
+        public void add(int a, int b)
+        {
+            if (a > b)
+            {
+                Console.WriteLine(a+">"+b);
+            }
+            else
+            {
+                Console.WriteLine(a+"<"+b);
+            }
+        }
         //Максим добавить метод возведения числа в степень б
 
 
