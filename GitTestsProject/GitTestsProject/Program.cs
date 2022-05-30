@@ -6,9 +6,7 @@ namespace GitTestsProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int a = 3;
-            int b = 4;
+            var text = Console.ReadLine();
         }
 
         //Максим добавить метод возведения числа в степень б
