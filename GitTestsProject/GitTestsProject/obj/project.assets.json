@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TAIGO\\.nuget\\packages\\": {}
+    "C:\\Users\\Ученик\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TAIGO\\Source\\Repos\\shikari926\\gitTest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+      "projectUniqueName": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
       "projectName": "GitTestsProject",
-      "projectPath": "C:\\Users\\TAIGO\\Source\\Repos\\shikari926\\gitTest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
-      "packagesPath": "C:\\Users\\TAIGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TAIGO\\Source\\Repos\\shikari926\\gitTest\\GitTestsProject\\GitTestsProject\\obj\\",
+      "projectPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+      "packagesPath": "C:\\Users\\Ученик\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TAIGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ученик\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

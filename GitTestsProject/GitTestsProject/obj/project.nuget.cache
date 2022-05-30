@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G/azicJl7/s7on7IzAktcbOp1uoUhXrdww8jMUvvReu31AeORcGsz0ZMp+IFCJD6JeDwLzbzAlKgLIglr20D5g==",
+  "dgSpecHash": "qAlsMtgmu97eyLwPsf9k13xDPWDxV9iuwz24joI+3cw74gQBa7YKrEw6BTIxY/eTtZUaINDIowDT8qyYsxY0qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TAIGO\\Source\\Repos\\shikari926\\gitTest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ученик\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Ученик\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ученик\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ученик\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
