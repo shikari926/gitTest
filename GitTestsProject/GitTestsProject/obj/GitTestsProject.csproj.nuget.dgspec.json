@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ученик\\Desktop\\TestingApp\\Datatest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj": {}
+    "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ученик\\Desktop\\TestingApp\\Datatest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj": {
+    "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ученик\\Desktop\\TestingApp\\Datatest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+        "projectUniqueName": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
         "projectName": "GitTestsProject",
-        "projectPath": "C:\\Users\\Ученик\\Desktop\\TestingApp\\Datatest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+        "projectPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
         "packagesPath": "C:\\Users\\Ученик\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ученик\\Desktop\\TestingApp\\Datatest\\GitTestsProject\\GitTestsProject\\obj\\",
+        "outputPath": "C:\\Users\\Ученик\\source\\repos\\gitTest_2\\GitTestsProject\\GitTestsProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ученик\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.14, 5.0.14]"
+              "version": "[5.0.13, 5.0.13]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
