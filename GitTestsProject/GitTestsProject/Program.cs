@@ -44,5 +44,7 @@ namespace GitTestsProject
         }
         // Артем -  добавить метод вывода а и б на консоль
 
+        //MaksimMigur
+        public double DigitsPow(double number, int pow) { return Math.Pow(number, pow); }
     }
 }
