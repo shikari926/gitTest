@@ -15,6 +15,20 @@ namespace GitTestsProject
             Console.WriteLine(multiply(a, b));
             var text = Console.ReadLine();
             Console.WriteLine(Max(a, b));
+            add(a, b);
+        }
+
+        public static void add(int a, int b)
+        {
+            if (a > b)
+            {
+                Console.WriteLine(a+">"+b);
+            }
+            else
+            {
+                Console.WriteLine(a+"<"+b);
+            }
+            
         }
 
 
