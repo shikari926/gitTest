@@ -8,8 +8,7 @@ namespace GitTestsProject
         { 
             Random random = new Random();
             var x = random.Next(100);
-        public static void Main(string[] args)
-        {
+
             Console.WriteLine("Hello World!");
             int a = 3;
             int b = 4;
