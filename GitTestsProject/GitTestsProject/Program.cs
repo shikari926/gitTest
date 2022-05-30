@@ -4,6 +4,10 @@ namespace GitTestsProject
 {
     public class Program
     {
+        static void Main(string[] args)
+        { 
+            Random random = new Random();
+            var x = random.Next(100);
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
