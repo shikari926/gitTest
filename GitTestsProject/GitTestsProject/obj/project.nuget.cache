@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVMPhnNhFg47PEWbWqItZBvQVe+7zvLaPTRG29EhXWQtCpYyeC4zqm8ypyKzISLcuvpuAOcVSE2Wuick13kRxQ==",
+  "dgSpecHash": "G/azicJl7/s7on7IzAktcbOp1uoUhXrdww8jMUvvReu31AeORcGsz0ZMp+IFCJD6JeDwLzbzAlKgLIglr20D5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mr.Sky\\source\\repos\\gitTest2\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mr.Sky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\TAIGO\\Source\\Repos\\shikari926\\gitTest\\GitTestsProject\\GitTestsProject\\GitTestsProject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
