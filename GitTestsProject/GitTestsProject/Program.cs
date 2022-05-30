@@ -5,7 +5,10 @@ namespace GitTestsProject
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
+            Random random = new Random();
+            var x = random.Next(100);
+
             var text = Console.ReadLine();
         }
 
